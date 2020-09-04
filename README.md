@@ -1,2 +1,5 @@
-# hello-world
-My frist repository on GitHub
+hello-world
+===========
+
+my first repository on GitHub!
+i love :coffee:, :pizza:, and :dancer:.
